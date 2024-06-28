@@ -68,5 +68,3 @@ I am a front-end developer based in Minsk, Belarus. I have successfully complete
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=FroZe36&&style=flat-square)  
   
-
-<br/>  
