@@ -46,7 +46,7 @@ I am a front-end developer based in Minsk, Belarus. I have successfully complete
 
 <img src="https://streak-stats.demolab.com?user=FroZe36" alt="GitHub Streak"/>
 
-<a href="https://www.codewars.com/users/rsschool_d8beb40f9a5c44b1/badges"><img src="https://www.codewars.com/users/rsschool_d8beb40f9a5c44b1/badges/large"></a>
+<a href="https://www.codewars.com/users/rsschool_d8beb40f9a5c44b1"><img src="https://www.codewars.com/users/rsschool_d8beb40f9a5c44b1/badges/large"></a>
 
 </td><td valign="top" width="50%">
 
