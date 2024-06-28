@@ -12,7 +12,6 @@
 </a>
 </div>
   
-
 ### Glad to see you here!  
 I am a front-end developer based in Minsk, Belarus. I have successfully completed my training at RSSchool and am now looking for a job. My stack: HTML, CSS, SCSS, JS/TS, React, Webpack, Vite, Jest.   
   
@@ -21,8 +20,6 @@ I am a front-end developer based in Minsk, Belarus. I have successfully complete
   
 
 💯 Fun fact: I like to solve interesting and difficult tasks, set goals and achieve them under any conditions!  
-  
-<br/>  
 
 ## Languages and Tools  
 <div align="center">  
@@ -44,9 +41,6 @@ I am a front-end developer based in Minsk, Belarus. I have successfully complete
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
 </div>  
 
-<br/>  
-
-
 ## Github Stats    
 <table style="border: none"><tr><td valign="top" width="50%">
 
@@ -62,9 +56,4 @@ I am a front-end developer based in Minsk, Belarus. I have successfully complete
 
 <br/>  
 
-  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=FroZe36&&style=flat-square)  
-  
