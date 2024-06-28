@@ -41,7 +41,7 @@ I am a front-end developer based in Minsk, Belarus. I have successfully complete
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
 </div>  
 
-## Github Stats    
+## My Stats    
 <table style="border: none"><tr><td valign="top" width="50%">
 
 <img src="https://streak-stats.demolab.com?user=FroZe36" alt="GitHub Streak"/>
