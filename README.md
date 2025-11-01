@@ -13,7 +13,7 @@
 </div>
   
 ### Glad to see you here!  
-I am a front-end developer based in Minsk, Belarus. I have successfully completed my training at RSSchool and am now looking for a job. My stack: HTML, CSS, SCSS, JS/TS, React/Next.js, Webpack, Vite, Jest, Vitest, RTL.   
+I am a front-end developer based in Minsk, Belarus. My stack: JS/TS, React/Next.js.  
   
 
 ⚡ "If you'd like to get acquainted or collaborate, please message me on LinkedIn or Telegram." 😊  
