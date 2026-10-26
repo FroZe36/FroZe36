@@ -41,19 +41,4 @@ I am a front-end developer based in Minsk, Belarus. My stack: JS/TS, React/Next.
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
 </div>  
 
-## My Stats    
-<table style="border: none"><tr><td valign="top" width="50%">
-
-<img src="https://streak-stats.demolab.com?user=FroZe36" alt="GitHub Streak"/>
-
-<a href="https://www.codewars.com/users/rsschool_d8beb40f9a5c44b1"><img src="https://www.codewars.com/users/rsschool_d8beb40f9a5c44b1/badges/large"></a>
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FroZe36&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=FroZe36&&style=flat-square)  
